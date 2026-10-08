@@ -1,0 +1,7 @@
+tag,num_leaves,min_child_samples,colsample_bytree,reg_lambda,oof_auc_3fold
+current,32,100,0.5,5.0,0.7917851389047743
+deeper,63,100,0.5,5.0,0.7910405743140224
+more_conserv,15,200,0.5,5.0,0.7922813682889598
+colsample_0.8,32,100,0.8,5.0,0.7916174303446255
+reg_l20,32,100,0.5,20.0,0.7920931193221487
+kaggle_common,31,30,0.7,1.0,0.7911177965589611
