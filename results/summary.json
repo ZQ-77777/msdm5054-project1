@@ -1,0 +1,2 @@
+{"n_train": 307511, "default_rate": 0.08072881945686496, "n_features_all": 339, "n_features_app": 131,
+ "auc_logit_app": 0.7504818242672923, "auc_lgb_app": 0.7686378310826215, "auc_lgb_all": 0.7926090066276106}

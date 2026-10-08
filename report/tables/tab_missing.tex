@@ -1,0 +1,11 @@
+\begin{tabular}{lc}
+\toprule
+Strategy (application features) & OOF AUC\\
+\midrule
+Missingness indicators only (logistic) & 0.5849\\
+Logistic, median imputation & 0.7493\\
+Logistic, median imputation + indicators & 0.7505\\
+LightGBM, native NaN handling & 0.7686\\
+LightGBM, median-imputed & 0.7684\\
+\bottomrule
+\end{tabular}

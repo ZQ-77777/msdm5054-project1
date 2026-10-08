@@ -1,0 +1,2 @@
+{"indicators_only_auc": 0.584934040416021, "n_indicator_cols": 61, "logit_median": 0.7492864803559472,
+ "logit_median_plus_indicator": 0.7504818242672923, "lgb_native_nan": 0.7686378310826215, "lgb_median_imputed": 0.7683887580253642}
